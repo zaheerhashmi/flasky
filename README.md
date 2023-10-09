@@ -1,5 +1,7 @@
 Lab 3: Docker
 ======
+## Activity 2: Docker Installation Screenshot
+<img width="691" alt="image" src="https://github.com/zaheerhashmi/flasky/assets/34323129/5c1dd582-7f09-4827-9b8e-bbcd2ce5cd61">
 
 This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
 
