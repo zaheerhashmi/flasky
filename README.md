@@ -3,6 +3,9 @@ Lab 3: Docker
 ## Activity 2: Docker Installation Screenshot
 <img width="691" alt="image" src="https://github.com/zaheerhashmi/flasky/assets/34323129/5c1dd582-7f09-4827-9b8e-bbcd2ce5cd61">
 
+## Activity 3: Application Welcoming User to Lab3
+<img width="955" alt="image" src="https://github.com/zaheerhashmi/flasky/assets/34323129/e60aaddd-e444-4e07-9295-9f364540556b">
+
 This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
 
 The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
